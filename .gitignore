@@ -1,0 +1,14 @@
+
+__pycache__
+.virtual_documents/System Monitor/requirements.ipynb
+.virtual_documents/System Monitor/tests.ipynb
+/models
+.ipynb_checkpoints
+/db
+/data
+
+**/db
+/url-summarizer/url-summarizer
+System Monitor/system-monitor
+System Monitor/service-logs/*
+!System Monitor/service-logs/collect-logs.fish

@@ -1,0 +1,4 @@
+langchain
+beautifulsoup4
+https://github.com/jllllll/exllama/releases/download/0.0.6/exllama-0.0.6+cu117-cp310-cp310-linux_x86_64.whl
+sentencepiece
